@@ -1,0 +1,236 @@
+[
+  {
+    "year": "2024-03-31",
+    "nature": "STANDALONE",
+    "stated_on": "2024-03-31",
+    "filing_type": "XBRL",
+    "filing_standard": "Schedule III",
+    "bs": {
+      "assets": {
+        "tangible_assets": 757200000,
+        "producing_properties": null,
+        "intangible_assets": 0,
+        "preproducing_properties": null,
+        "tangible_assets_capital_work_in_progress": 80665000,
+        "intangible_assets_under_development": 27096000,
+        "noncurrent_investments": 236700000,
+        "deferred_tax_assets_net": null,
+        "foreign_curr_monetary_item_trans_diff_asset_account": null,
+        "long_term_loans_and_advances": 150000000,
+        "other_noncurrent_assets": 0,
+        "current_investments": 0,
+        "inventories": 300362000,
+        "trade_receivables": 497461000,
+        "cash_and_bank_balances": 12505000,
+        "short_term_loans_and_advances": 19054000,
+        "other_current_assets": 31887000,
+        "given_assets_total": 2112930000
+      },
+      "subTotals": {
+        "total_equity": 1524253000,
+        "total_non_current_liabilities": 81829000,
+        "total_current_liabilities": 506848000,
+        "net_fixed_assets": 757200000,
+        "total_current_assets": 861269000,
+        "capital_wip": 107761000,
+        "total_debt": 304383000,
+        "total_other_non_current_assets": 386700000
+      }
+    }
+  },
+  {
+    "year": "2023-03-31",
+    "nature": "STANDALONE",
+    "stated_on": "2024-03-31",
+    "filing_type": "XBRL",
+    "filing_standard": "Schedule III",
+    "bs": {
+      "assets": {
+        "tangible_assets": 797254000,
+        "producing_properties": null,
+        "intangible_assets": 0,
+        "preproducing_properties": null,
+        "tangible_assets_capital_work_in_progress": 21718000,
+        "intangible_assets_under_development": 15000000,
+        "noncurrent_investments": 90100000,
+        "deferred_tax_assets_net": null,
+        "foreign_curr_monetary_item_trans_diff_asset_account": null,
+        "long_term_loans_and_advances": 0,
+        "other_noncurrent_assets": 0,
+        "current_investments": 0,
+        "inventories": 211512000,
+        "trade_receivables": 438990000,
+        "cash_and_bank_balances": 58713000,
+        "short_term_loans_and_advances": 17586000,
+        "other_current_assets": 37676000,
+        "given_assets_total": 1688549000
+      },
+      "subTotals": {
+        "total_equity": 1235956000,
+        "total_non_current_liabilities": 81302000,
+        "total_current_liabilities": 371291000,
+        "net_fixed_assets": 797254000,
+        "total_current_assets": 764477000,
+        "capital_wip": 36718000,
+        "total_debt": 114370000,
+        "total_other_non_current_assets": 90100000
+      }
+    }
+  },
+  {
+    "year": "2022-03-31",
+    "nature": "STANDALONE",
+    "stated_on": "2023-03-31",
+    "filing_type": "XBRL",
+    "filing_standard": "Schedule III",
+    "bs": {
+      "assets": {
+        "tangible_assets": 615168000,
+        "producing_properties": null,
+        "intangible_assets": 0,
+        "preproducing_properties": null,
+        "tangible_assets_capital_work_in_progress": 122918000,
+        "intangible_assets_under_development": 0,
+        "noncurrent_investments": 15100000,
+        "deferred_tax_assets_net": null,
+        "foreign_curr_monetary_item_trans_diff_asset_account": null,
+        "long_term_loans_and_advances": 0,
+        "other_noncurrent_assets": 31001000,
+        "current_investments": 0,
+        "inventories": 211061000,
+        "trade_receivables": 396790000,
+        "cash_and_bank_balances": 86456000,
+        "short_term_loans_and_advances": 9766000,
+        "other_current_assets": 68678000,
+        "given_assets_total": 1556938000
+      },
+      "subTotals": {
+        "total_equity": 993497000,
+        "total_non_current_liabilities": 123624000,
+        "total_current_liabilities": 439817000,
+        "net_fixed_assets": 615168000,
+        "total_current_assets": 772751000,
+        "capital_wip": 122918000,
+        "total_debt": 211811000,
+        "total_other_non_current_assets": 46101000
+      }
+    }
+  },
+  {
+    "year": "2021-03-31",
+    "nature": "STANDALONE",
+    "stated_on": "2022-03-31",
+    "filing_type": "XBRL",
+    "filing_standard": "Schedule III",
+    "bs": {
+      "assets": {
+        "tangible_assets": 624920000,
+        "producing_properties": null,
+        "intangible_assets": 0,
+        "preproducing_properties": null,
+        "tangible_assets_capital_work_in_progress": 0,
+        "intangible_assets_under_development": null,
+        "noncurrent_investments": 100000,
+        "deferred_tax_assets_net": null,
+        "foreign_curr_monetary_item_trans_diff_asset_account": null,
+        "long_term_loans_and_advances": 0,
+        "other_noncurrent_assets": 0,
+        "current_investments": 0,
+        "inventories": 128788000,
+        "trade_receivables": 325666000,
+        "cash_and_bank_balances": 19368000,
+        "short_term_loans_and_advances": 17508000,
+        "other_current_assets": 74950000,
+        "given_assets_total": 1191300000
+      },
+      "subTotals": {
+        "total_equity": 714722000,
+        "total_non_current_liabilities": 92496000,
+        "total_current_liabilities": 384082000,
+        "net_fixed_assets": 624920000,
+        "total_current_assets": 566280000,
+        "capital_wip": 0,
+        "total_debt": 141542000,
+        "total_other_non_current_assets": 100000
+      }
+    }
+  },
+  {
+    "year": "2020-03-31",
+    "nature": "STANDALONE",
+    "stated_on": "2021-03-31",
+    "filing_type": "XBRL",
+    "filing_standard": "Schedule III",
+    "bs": {
+      "assets": {
+        "tangible_assets": 458233000,
+        "producing_properties": null,
+        "intangible_assets": 0,
+        "preproducing_properties": null,
+        "tangible_assets_capital_work_in_progress": 0,
+        "intangible_assets_under_development": null,
+        "noncurrent_investments": 300000,
+        "deferred_tax_assets_net": null,
+        "foreign_curr_monetary_item_trans_diff_asset_account": null,
+        "long_term_loans_and_advances": 7171000,
+        "other_noncurrent_assets": null,
+        "current_investments": 0,
+        "inventories": 128786000,
+        "trade_receivables": 434543000,
+        "cash_and_bank_balances": 19350000,
+        "short_term_loans_and_advances": 18337000,
+        "other_current_assets": 122157000,
+        "given_assets_total": 1188877000
+      },
+      "subTotals": {
+        "total_equity": 712296000,
+        "total_non_current_liabilities": 60947000,
+        "total_current_liabilities": 415634000,
+        "net_fixed_assets": 458233000,
+        "total_current_assets": 723173000,
+        "capital_wip": 0,
+        "total_debt": 141541000,
+        "total_other_non_current_assets": 7471000
+      }
+    }
+  },
+  {
+    "year": "2019-03-31",
+    "nature": "STANDALONE",
+    "stated_on": "2020-03-31",
+    "filing_type": "XBRL",
+    "filing_standard": "Schedule III",
+    "bs": {
+      "assets": {
+        "tangible_assets": 467171000,
+        "producing_properties": null,
+        "intangible_assets": 0,
+        "preproducing_properties": null,
+        "tangible_assets_capital_work_in_progress": null,
+        "intangible_assets_under_development": null,
+        "noncurrent_investments": 445000,
+        "deferred_tax_assets_net": null,
+        "foreign_curr_monetary_item_trans_diff_asset_account": null,
+        "long_term_loans_and_advances": 9873000,
+        "other_noncurrent_assets": 1030000,
+        "current_investments": 0,
+        "inventories": 130358000,
+        "trade_receivables": 395488000,
+        "cash_and_bank_balances": 17661000,
+        "short_term_loans_and_advances": 10517000,
+        "other_current_assets": 141982000,
+        "given_assets_total": 1174525000
+      },
+      "subTotals": {
+        "total_equity": 614532000,
+        "total_non_current_liabilities": 84788000,
+        "total_current_liabilities": 475205000,
+        "net_fixed_assets": 467171000,
+        "total_current_assets": 696006000,
+        "capital_wip": 0,
+        "total_debt": 192989000,
+        "total_other_non_current_assets": 11348000
+      }
+    }
+  }
+]
